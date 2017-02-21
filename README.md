@@ -1,4 +1,4 @@
-# js面向对象笔记 day1
+# js面向对象笔记  day1
 
 01-JavaScript的组成
 
